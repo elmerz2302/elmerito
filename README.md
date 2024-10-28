@@ -1,2 +1,0 @@
-# elmerito
-pagina web
